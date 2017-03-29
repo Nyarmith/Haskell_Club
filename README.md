@@ -1,7 +1,7 @@
 # Haskell "Club"
 
-_A parser for things
-Is a function from strings
-To lists of pairs
-Of things and strings_
+_A parser for things_
+_Is a function from strings_
+_To lists of pairs_
+_Of things and strings_
 ~ Graham Hutton, _Programming in Haskell_ (2007)
