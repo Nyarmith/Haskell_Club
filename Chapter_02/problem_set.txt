@@ -1,0 +1,14 @@
+Main topics:
+(a) List comprehension
+(b) Tuples
+
+Warm Up:
+
+https://projecteuler.net/problem=1
+https://projecteuler.net/problem=2
+
+Main Problems:
+
+https://wiki.haskell.org/99_questions/1_to_10
+
+problems 5 and 7
