@@ -1,4 +1,4 @@
-"# Haskell_Club" 
+# Haskell "Club"
 
 _A parser for things
 Is a function from strings
