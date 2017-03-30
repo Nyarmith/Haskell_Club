@@ -8,7 +8,7 @@ fibonnaci n = if n == 1 || n == 2
 -- infinite list of fibonnaci numbers
 fibs = [ fibonnaci i | i <- [1..] ]
 -- hard code the number of terms, not sure what else to do
-fourMillionFibSum = sum [ x | (take 34 fibs) ]
+fourMillionFibSum = sum [ x | x <- takeWhile (<= 4000000) fibs, even x ]
 
 -- construct list from individual elements taken in revese order
 reverse' l = [ l !! ((length l) - i) | i <- [1..length l] ]
