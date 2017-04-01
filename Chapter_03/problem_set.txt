@@ -1,0 +1,19 @@
+Chapter 3 Problems
+
+Main topics:
+(a) Typed functions
+(b) Tuples 
+
+Warm Up:
+https://projecteuler.net/problem=3
+https://projecteuler.net/problem=9
+
+Main Problems:
+
+Problem 7, we should do this now that we've been introduced to types
+Problem 10, we might be able to use types for this specifiy type of pair, but
+we might have to throw it out
+https://wiki.haskell.org/99_questions/1_to_10
+
+I'll probably add more problems after I read this chapter
+#TODO : Add more problems guys!
