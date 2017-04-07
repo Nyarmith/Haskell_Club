@@ -7,11 +7,7 @@
 
 -- ugh I have to test for primes?
 
-isPrime :: Integer->Bool
-isPrime k = null [ x | x <- [2..floor (sqrt (fromIntegral k))], k `mod` x == 0]
-
-ans_1 =  take 1 [y | y<- [floor (600851475143/2), floor (pred 60085147514/2)..], isPrime y]
-
+ans_1 =  take 1 [y | y<- [floor (sqrt 600851475143), floor (pred (sqrt 60085147514))..], 60085147514 `mod` y == 0]
  {- problem 2
  - find the product of the pythagorean triple (i.e. a^2 + b^2 == c^2, a < b < c) such that a + b + c = 1000
  -}
