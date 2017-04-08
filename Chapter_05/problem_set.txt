@@ -1,0 +1,12 @@
+Chapter 3 Problems
+
+Main topics:
+(a) zip function ?
+(b) Literal just recursion
+
+Main Problems:
+https://wiki.haskell.org/99_questions/11_to_20
+
+
+problems 15, 11
+

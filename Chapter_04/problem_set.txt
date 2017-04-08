@@ -1,0 +1,18 @@
+Chapter 3 Problems
+
+Main topics:
+(a) Function pattern matching
+(b) Function guards
+(c) Scoped vars
+(d) Case Expressions
+
+Warm Up:
+https://projecteuler.net/problem=16
+
+Main Problems:
+https://wiki.haskell.org/99_questions/11_to_20
+
+Problem 12
+
+Problem 19
+
