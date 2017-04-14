@@ -1,4 +1,4 @@
-Chapter 3 Problems
+Chapter 4 Problems
 
 Main topics:
 (a) Function pattern matching
