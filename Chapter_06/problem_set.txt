@@ -1,0 +1,24 @@
+Chapter 6 Problems
+
+Main topics:
+(a) Currying
+(b) Maps
+(c) Lambdas
+(d) Function Applications
+
+
+Warm-Ups:
+Make better versions of these guys from chapter 1
+
+https://wiki.haskell.org/99_questions/1_to_10
+problems 5 and 7
+
+Main Problems:
+https://wiki.haskell.org/99_questions/11_to_20
+
+Problem 19
+
+https://wiki.haskell.org/99_questions/21_to_28
+
+Problem 23
+
