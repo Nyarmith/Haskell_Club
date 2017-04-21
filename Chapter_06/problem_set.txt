@@ -11,7 +11,7 @@ Warm-Ups:
 Make better versions of these guys from chapter 1
 
 https://wiki.haskell.org/99_questions/1_to_10
-problems 5,6,7
+problems 5,6
 
 Main Problems:
 https://wiki.haskell.org/99_questions/11_to_20
