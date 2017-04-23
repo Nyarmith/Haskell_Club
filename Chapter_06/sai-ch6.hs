@@ -29,7 +29,12 @@ isPalindrome (x:xs) = (x == last xs) && isPalindrome (init xs)
 -- problem 3 Rotate a list N places to the left. (work for negative values)
 -- maybe reverse it when the case is negatve?
 -- consider using function guards as well here
+rotate :: [a] -> Int -> [a]
+rotate [] n = []
+rotate l n =  if (n < 0)
+                then rotate l ((length l) + n)
+                else drop n l ++ take n l
 
 -- Insert an element at a given position into a list.
--- maybe reverse it when the case is negatve?
-
+insertAt :: a -> [a] -> Int -> [a]
+insertAt e l n = take (n-1) l ++ [e] ++ drop (n-1) l

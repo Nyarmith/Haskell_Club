@@ -1,0 +1,17 @@
+Chapter 7 Problems
+
+Main topics:
+(a) A bunch of useful modules
+
+
+Problems:
+
+warm-ups
+https://wiki.haskell.org/99_questions/11_to_20
+problems 13, 14, 16, 17, 18, 20
+
+main:
+https://wiki.haskell.org/99_questions/1_to_10
+Problems 8, 9
+
+it may seem like a lot but only the main: problems are at all tricky
