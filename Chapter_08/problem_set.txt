@@ -1,0 +1,16 @@
+Chapter 8 Problems
+
+Main topics:
+(a) Making classes
+(b) Type parameters
+(c) Type Synonyms
+(d) Type Constructors
+
+
+Problems:
+
+This is number theory week, which is a topic I recently went over, so ask me
+for any theoretical clarification. None of the problems are really warm-ups though.
+
+https://wiki.haskell.org/99_questions/31_to_41
+31, 32, 33, 34, 36, 37
