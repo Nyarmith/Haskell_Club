@@ -7,7 +7,7 @@ _Of things and strings_
 ~ Graham Hutton, _Programming in Haskell_ (2007)
 
    
-####99 haskell problems checklist   
+#### 99 haskell problems checklist   
 ```
  1   2   3   4  x5  x6  x7  x8  x9  x10   
 x11 x12 x13 x14 x15 x16 x17 x18 x19 x20   
