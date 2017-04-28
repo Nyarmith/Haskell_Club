@@ -1,5 +1,18 @@
 --  Sergey Ivanov  --  Haskell Club Chapter 7  
 -- 
+-- Notes from the chapter:
+-- Data.List has all the nice list functions you want like iterate, find, intersectg, group, unique elements, sorting, transposes (sort of reminds me of matlab)
+-- There are many but these are the ones that seemed like i'd use them readily
+-- Data.Char is good for string manipulation, does all standard stuff you'd expect from regex
+-- Data.Map is good for string manipulation, does all standard stuff you'd expect from regex
+-- Data.Map has extra map features and types, like mapping with conditions basically
+-- Data.Set for math-like set manipulations, instead of doing them with lists like I was thinking about doing before seeing there was a set
+--
+-- you make your own modules with  the module keyword, then you put the exported definitions
+-- module Geometry
+-- ( sphereVolume, sphereArea, ... ) where
+-- sphereVolume a = ... --definitions of sphereVolume, sphereArea, etc...
+
 
 -- problem 13
 -- Run-length encoding of a list
