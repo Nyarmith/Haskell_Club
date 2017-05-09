@@ -1,0 +1,52 @@
+Chapter 9 Problems
+
+Main topics:
+(a) IO, Stdargs, "real" programs
+(b) Random numbers
+
+
+Problems:
+
+
+warmups:
+problem 23, 24
+
+real stuff:
+
+(a)
+Make a program that counts the number of characters, words, and lines in a
+file e.g.
+```
+haskell_wc poem.txt
+420 69 7
+```
+
+returns the first number is characters, second is words, third is lines
+(b)
+Building on the previous example add options that let you specify to *only*
+count that metric. Do this for chars, words and lines.
+
+e.g.
+
+```
+haskell_wc -l poem.txt
+7
+```
+
+```
+haskell_wc -w poem.txt
+69
+```
+
+(c)
+Make a program that takes a sequence of numbers as an argument and inserts
+them into a binary tree, then prints the elements of the tree inorder. Define
+your own tree type for this.
+
+(d)
+Extend the previous program to let the user specify to either print inorder or
+postorder
+
+(e)
+Add an option that uses a stack instead of a tree(this should be fairly
+easy to print)
