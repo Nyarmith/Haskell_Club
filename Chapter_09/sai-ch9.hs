@@ -53,7 +53,6 @@ haskell_wc -w poem.txt
 -}
 
 
-
 {-
 (c)
 Make a program that takes a sequence of numbers as an argument and inserts
@@ -63,10 +62,12 @@ your own tree type for this.
 (d)
 Extend the previous program to let the user specify to either print inorder or
 postorder
+-}
 
+{-
 (e)
 Add an option that uses a stack instead of a tree(this should be fairly
 easy to print)
 -}
 
-
+data Tree a = Tree a (Tree a) (Tree a) | None deriving (Show)
